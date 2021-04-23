@@ -1,5 +1,5 @@
 # datacracy-atom-Thien-Phu-
-**#1. GitHub dùng để làm gì? **
+**#1. GitHub dùng để làm gì?**
 GitHub là một dịch vụ cung cấp kho lưu trữ mã nguồn Git cho các dự án phần mềm. Github có đầy đủ những tính năng của Git
 - Hệ thống lưu trữ mọi thay đổi của source code
 - Hỗ trợ nhiều người làm việc cùng lúc
