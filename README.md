@@ -17,6 +17,7 @@ Repository được xem là như một dự án - chứa toàn bộ thông tin, 
 Việc Fork repo (DATACracy) nhằm giúp học viên có thể sao chép các repository của DATAcracy về account của mình để thuận tiện cho việc học tập, nghiên cứu cũng như giúp bên DATAcracy dễ dàng quản lý task và hỗ trợ học viên trong quá trình làm bài tập
 
 **#4.Giải thích ý nghĩa của Branch, Commit mesage bạn thấy khi link Colab với Github?**
-Branch: là những phân nhánh ghi lại luồng thay đổi của lịch sử, các hoạt động trên mỗi branch sẽ không ảnh hưởng lên các branch khác nên có thể tiến hành nhiều thay đổi đồng thời trên một repository, giúp việc làm nhóm thuận tiện hơn
-Commit: Là thao tác để lưu lại trạng thái hiện tại trên hệ thống, ghi nhận lại lịch sử các xử lý: thêm, xóa, cập nhật các file hay thư mục trên repository
-Commit mesage: mô tả các mục đính của thay đổi, giúp người khác hiểu về những thay đổi cũng như giúp cho việc khắc phục sự cố (gở lỗi) trở nên dễ dàng hơn 
+
+- Branch: là những phân nhánh ghi lại luồng thay đổi của lịch sử, các hoạt động trên mỗi branch sẽ không ảnh hưởng lên các branch khác nên có thể tiến hành nhiều thay đổi đồng thời trên một repository, giúp việc làm nhóm thuận tiện hơn
+- Commit: Là thao tác để lưu lại trạng thái hiện tại trên hệ thống, ghi nhận lại lịch sử các xử lý: thêm, xóa, cập nhật các file hay thư mục trên repository
+- Commit mesage: mô tả các mục đính của thay đổi, giúp người khác hiểu về những thay đổi cũng như giúp cho việc khắc phục sự cố (gở lỗi) trở nên dễ dàng hơn 
